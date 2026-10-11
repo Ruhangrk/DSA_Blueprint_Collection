@@ -16,7 +16,8 @@ When the user asks to add question(s), follow this document exactly.
 
 ## Present Status 
 
-You will add entire CSES set here, but fetch only 3 questions into 3 pages at a time. Make sure that quaity is never sacrified. High quality page is top priority. Before you select which 3 next questions to add, make sure those are already not present in this repo. 
+You will add entire CSES set here, but fetch only 3 questions into 3 pages at a time. Make sure that quaity is never sacrified. High quality page is top priority. Before you select which 3 next questions to add, make sure those are already not present in this repo. Explanation should be clean and clear. Anyone should be able to understand it. 
+Remember you dont have to invent the solultion, you have to try fetching it from editorial. 
 
 ---
 
