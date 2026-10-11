@@ -2,67 +2,21 @@
 
 **Rule:** follow `Notes/Add_Questions.md`. Each run adds **exactly 5** missing CSES pages. **Quality over speed**. **Stop** when every CSES task already has a page. Re-arm with **`sleep 15`** (`AGENT_LOOP_WAKE_cses-add-5` only).
 
-**Status:** `308 / 400` pages · **92 left** (full current CSES catalog)
+**Status:** `348 / 400` pages · **52 left** (full current CSES catalog)
 
 ## Done
 
-All sections except the leftovers below:
-Introductory, Sorting and Searching, DP, Graph Algorithms, Range Queries, Tree Algorithms, Mathematics, String Algorithms, Geometry, Advanced Techniques, Sliding Window, Interactive, Bitwise, Construction, and Counting through Grid Completion.
+All sections through Advanced Graph (complete), plus Additional I through Bubble Sort Rounds II.
+Still open: rest of Additional I, Additional II.
 
 ## Next (pick 5 in order)
 
-Finish **Counting** (4), then **Advanced Graph Problems**, then **Additional Problems I**, then **Additional Problems II**. Cross off IDs as pages are added.
+Continue **Additional Problems I**, then **Additional Problems II**. Cross off IDs as pages are added.
 
 ---
 
-## Remaining — Counting Problems (4)
+## Remaining — Additional Problems I (22)
 
-- 2421 Counting Reorders
-- 3232 Tournament Graph Distribution
-- 3157 Collecting Numbers Distribution
-- 2415 Functional Graph Distribution
-
-## Remaining — Advanced Graph Problems (28)
-
-- 3303 Nearest Shops
-- 1134 Prüfer Code
-- 1702 Tree Traversals
-- 1757 Course Schedule II
-- 1756 Acyclic Graph Edges
-- 2177 Strongly Connected Edges
-- 2179 Even Outdegree Edges
-- 1707 Graph Girth
-- 3357 Fixed Length Walk Queries
-- 3111 Transfer Speeds Sum
-- 3407 MST Edge Check
-- 3408 MST Edge Set Check
-- 3409 MST Edge Cost
-- 1677 Network Breakdown
-- 3114 Tree Coin Collecting I
-- 3149 Tree Coin Collecting II
-- 1700 Tree Isomorphism I
-- 1701 Tree Isomorphism II
-- 1699 Flight Route Requests
-- 1703 Critical Cities
-- 1203 Visiting Cities
-- 3308 Graph Coloring
-- 3158 Bus Companies
-- 3358 Split into Two Paths
-- 1704 Network Renovation
-- 1705 Forbidden Cities
-- 1752 Creating Offices
-- 1685 New Flight Routes
-
-## Remaining — Additional Problems I (30)
-
-- 1087 Shortest Subsequence
-- 3150 Distinct Values Sum
-- 3190 Distinct Values Splits
-- 1670 Swap Game
-- 3175 Beautiful Permutation II
-- 2422 Multiplication Table
-- 3151 Bubble Sort Rounds I
-- 3152 Bubble Sort Rounds II
 - 3306 Nearest Campsites I
 - 3307 Nearest Campsites II
 - 1142 Advertisement
